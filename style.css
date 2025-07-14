@@ -2,3 +2,20 @@
     margin: 20px auto;
 
 }
+.aboutus{
+    width: 65%;
+margin: 30px auto;
+background: gray;
+border-radius: 5px;
+font-size: larger;
+text-align: left;
+}
+.contactus{
+        width: 65%;
+margin: 30px auto;
+background:black;
+border-radius: 5px;
+font-size: larger;
+text-align: left;
+color: white;
+}
