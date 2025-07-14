@@ -19,3 +19,29 @@ font-size: larger;
 text-align: left;
 color: white;
 }
+.card{
+    margin: 20px auto;
+  
+}
+.singupb{
+    margin-top: 2px;
+    background-color: #28a745;
+    color: wheat;
+    padding: 8 px 12 px;
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+.singupb:hover{
+    background-color: #218838;
+}
+.mb-3{
+    width: 50%;
+    margin: 20px auto;
+   
+}
+.bor{
+      width: 50%;
+    margin: 20px auto;
+    border: 1px solid blue;
+}
